@@ -10,7 +10,6 @@ A comprehensive ecommerce admin dashboard built using the MERN stack, Tailwind C
 - [Setup](#setup)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
@@ -86,7 +85,3 @@ Explore the `/frontend/` directory to understand the UI components and data visu
 ## Contributing
 
 Contributions are welcome! Please feel free to submit pull requests or issues.
-
-## License
-
-This project is licensed under the MIT License.
