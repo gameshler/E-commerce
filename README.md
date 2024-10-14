@@ -1,6 +1,6 @@
-# Ecommerce Website
+# Ecommerce App
 
-A comprehensive ecommerce platform built using MERN stack, Tailwind CSS, Shadcn, and ECharts.
+A comprehensive ecommerce application built using MERN stack, Tailwind CSS, Shadcn, and ECharts.
 
 ## Table of Contents
 
