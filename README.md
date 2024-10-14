@@ -1,6 +1,6 @@
-# Ecommerce Admin Dashboard
+# Ecommerce Website
 
-A comprehensive ecommerce admin dashboard built using the MERN stack, Tailwind CSS, Shadcn, and ECharts.
+A comprehensive ecommerce platform built using MERN stack, Tailwind CSS, Shadcn, and ECharts.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ A comprehensive ecommerce admin dashboard built using the MERN stack, Tailwind C
 
 ## About
 
-This repository showcases a comprehensive ecommerce admin dashboard application built using the MERN stack. The dashboard provides administrators with a user-friendly interface to manage various aspects of the ecommerce platform, including product listings, orders, analytics, and more.
+This repository showcases a comprehensive ecommerce application built using the MERN stack. The dashboard provides administrators with a user-friendly interface to manage various aspects of the ecommerce platform, including product listings, orders, analytics, and more.
 
 ## Features
 
